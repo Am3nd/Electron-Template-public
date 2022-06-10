@@ -1,3 +1,7 @@
+[![N|Solid](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/100px-Electron_Software_Framework_Logo.svg.png)](https://www.electronjs.org/)
+
+## Electron Template with Auto Update and Firebase setup
+
 A current electron app template with the most popular frameworks, designed and built with firebase and sqlite3. please take a look at the scripts in the package.json and you will find how to publish, distribute your app. For mac os you will need to run the publish script on Mac OS device 
 
 Need to change the following in the package.json
